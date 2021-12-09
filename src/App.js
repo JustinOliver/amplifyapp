@@ -1,4 +1,4 @@
-/* This is a comment added for fun 
+/* This is a comment added for fun - or to rebuild app
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
